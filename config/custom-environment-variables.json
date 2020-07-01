@@ -1,3 +1,4 @@
 {
-  "jwtPrivateKey": "vidly_jwtPrivateKey"
+  "jwtPrivateKey": "videoxpress_jwtPrivateKey",
+  "db": "videoxpress_db"
 }
